@@ -1,13 +1,12 @@
 line 1
 line 2
 
-line 4
-line 5 checking reset
-
-line 9 github
-line 6
-
+do fuck with u guys
 this is chutiyap
+<<<<<<< HEAD
 line 7
 i dont want this shit
+=======
+i wanna give up
+>>>>>>> cd2da38a4ca3822278bce2587a3f6833053e181e
 
